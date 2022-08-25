@@ -8,7 +8,8 @@
 #include <stdio.h>
 int main(int argc, char **argv) {
 
-    printf("Hi Benny!\n");
+    printf("Hi, I'm Benny!\n");
+    printf("My major is Computer Enginnering.\n");
 
     return 0;
 }
